@@ -1,2 +1,3 @@
-# satellite-ground-estimation
-Satellite based ground estimation of PM2.5
+# AIM
+- To build a program to analyse and estimate the satellite and ground data.
+- 
